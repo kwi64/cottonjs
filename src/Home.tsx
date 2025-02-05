@@ -9,7 +9,7 @@ export default function IndexPage() {
         Edit the <code>src/Home.tsx</code> file and save your changes. CottonJS
         will automatically reload the page for you!
       </p>
-      <a href="https://github.com/kwi64/cottonjs">Learn More</a>
+      <a href="https://cottonjs.com">Learn More</a>
     </div>
   );
 }
